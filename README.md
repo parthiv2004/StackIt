@@ -1,6 +1,8 @@
 # Welcome to StackIt project
 Team details
 
+Team Name: Team 2090
+
 Team leader name : S A Parthiv
 
 Team Members Name: Abhay Singh Gautam, Rajvardhan Singh, Ashutosh Vishwakarma
