@@ -1,14 +1,20 @@
 # Welcome to StackIt project
 Team details
+
 Team leader name : S A Parthiv
+
 Team Members Name: Abhay Singh Gautam, Rajvardhan Singh, Ashutosh Vishwakarma
+
 Team lead's email : saparthiv4321@gmail.com
+
 Problem statement 2: StackIt – A Minimal Q&A Forum Platform
+
 Overview
 StackIt is a m inim al question-and-answer platform that supports collaborative
 learning and structured knowledge sharing. It’s designed to be sim ple, user- friendly,
 and focused on the core experience of asking and answering questions within a
 com m unity.
+
 Video demo link of your project : https://drive.google.com/file/d/1ECbuTNKi7V30n5Ix7C035EnmnvuRWI-7/view?usp=sharing
 
 ## Project info
